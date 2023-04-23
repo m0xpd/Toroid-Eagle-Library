@@ -11,3 +11,6 @@ The library includes INDUCTORS (i.e. single windings), AUTO-TRANSFORMERS (i.e. t
 
 
 ![TransformerTypes](https://user-images.githubusercontent.com/3152962/233855610-ed71c496-4e5c-4b53-93d4-46053d073f67.png)
+
+The Library has been tested on a recent version of EAGLE (9.6.2) and appears to work OK, but please check that it is suitable for your application -
+it is provided with no warranties whatsoever.
