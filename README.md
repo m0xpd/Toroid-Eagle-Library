@@ -4,7 +4,7 @@ An EAGLE library for inductors and transformers wound on ferrite toroids, possib
 This library originally was [originally published](http://m0xpd.blogspot.com/2009/12/toroid-library-for-eagle.html) on the CADSOFT EAGLE library page 
 way back in 2009 but is no longer on the [list of libraries at EAGLE's new owner]http://eagle.autodesk.com/eagle/libraries.
 
-Rather than waste time by having them lose it again I thought it better to post it here.
+Rather than waste time by having them lose it again I thought it better to post it [here](https://github.com/m0xpd/Toroid-Eagle-Library/blob/main/Toroid.lbr).
 
 The library includes INDUCTORS (i.e. single windings), AUTO-TRANSFORMERS (i.e. tapped inductors), TRANSFORMERS and Tri-filar wound TRANSFORMERS 
 (i.e. transformers with two independent secondaries), on [T37 and T50](https://www.gqrp.com/toroid_data.pdf) ferrite toroids.
